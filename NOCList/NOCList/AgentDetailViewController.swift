@@ -26,6 +26,9 @@ class AgentDetailViewController: UIViewController {
         
         if agent.compromised == true {
             view.backgroundColor = UIColor(hue: 0, saturation: 0.4, brightness: 0.9, alpha: 1.0)
+            title = "Compromised!"
+        } else {
+            title = "Not Compromised"
         }
         
         // Do any additional setup after loading the view.
