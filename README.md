@@ -84,3 +84,6 @@ After completing this assignment, you should...
         * `view.backgroundColor = `
 13. Storyboard Task: Be sure to go back to your storyboard and set the custom class of the detail view to the name of this view controller. To do that, click on the detail view in the storyboard, open the identity inspector, and enter the detail view controller's class name in the "custom class" field.
 14. Storyboard Task: Also wire up your 3 `IBOutlet` properties to their respective labels in the detail view.
+
+<img src="Screen Shot 2019-07-10 at 9.42.28 PM.png" height="500px">
+<img src="Screen Shot 2019-07-10 at 9.43.59 PM.png" height="500px">
